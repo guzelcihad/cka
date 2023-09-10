@@ -1,4 +1,4 @@
-## Cluster Architecture
+Cluster Architecture
 
 ![alt text](../images/1.png)
 
